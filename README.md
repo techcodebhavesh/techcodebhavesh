@@ -3,9 +3,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-![.]https://medium.com/towards-artificial-intelligence/navigating-the-data-odyssey-top-data-analytics-trends-for-2023-6f9bf6b3ae5d<br/>
-![.]https://medium.com/towards-artificial-intelligence/from-gaming-to-ai-nvidias-pivotal-role-in-the-ai-revolution-6dae898cd499<br/>
-![.]https://medium.com/@Jack_of_all_Techs/from-search-engines-to-chatbots-a-deep-dive-into-the-differences-between-chatgpt-and-googles-ai-132b8c43bf2c<br/>
 <!-- BLOG-POST-LIST:END -->
 
 
