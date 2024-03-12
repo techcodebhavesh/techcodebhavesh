@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Agone</h1>
 <h3 align="center">Building @xroot_ai | VIT Pune'26 | SIH'23 Winner | Tech Blogger | Developer | Aspiring Entrepreneur | Techie</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 
 ## 🌐 Socials:
